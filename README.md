@@ -23,6 +23,11 @@ We make network that you can engage a region by using smartcontract.
 NFTは魂のようなものだと考える。そうすれば、次の図のように多くのことを説明することができる。<br />
 What is NFT? I define it as the Spirit. In this way, I can explain many things as shown in the following diagram.
 <img width="940" alt="274827399-76301cd1-eb70-4de8-b6af-5337034ea976" src="https://github.com/setouchi-h/root/assets/113189196/b1cf3a81-dec2-4332-8d45-a7be101f1243">
+
+### WAKE-MITAMA
+分け御霊とは、私たちはみんな神様の魂を分け持っているという日本の神道の考え方である。神様は神社などの特定の場所に存在しているのではなく、至る所に存在している。rootでは分け御霊をデジタルに表現しようと試みた。<br />
+The concept of "WAKE-MITAMA" is based on the Japanese Shinto belief that we all share the spirit of God. God does not reside in a specific place, such as a shrine, but is everywhere. root attempts to digitally express the spirit of sharing.
+
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Function
