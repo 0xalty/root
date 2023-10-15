@@ -20,20 +20,25 @@ We make network that you can engage a region by using smartcontract.
 - How to get NFT
 
 ## Concept
+NFTは魂のようなものだと考える。そうすれば、次の図のように多くのことを説明することができる。
 What is NFT? I define it as the Spirit. In this way, I can explain many things as shown in the following diagram.
 <img width="940" alt="274827399-76301cd1-eb70-4de8-b6af-5337034ea976" src="https://github.com/setouchi-h/root/assets/113189196/b1cf3a81-dec2-4332-8d45-a7be101f1243">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Function
+ERC-6551では、SBTからNFTを転送し、受け取ったNFTをSBTに変換することを試みた。
 The Spirit can be shared with others; in ERC-6551, we attempted to transfer NFTs from SBTs and convert the NFT we received to SBT.
 <img width="943" alt="274827468-3078a25b-ceb5-4da2-a9d6-96990a97e44c" src="https://github.com/setouchi-h/root/assets/113189196/631a7341-cd62-4390-904d-78c61b150cd3">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contract
+文字通り契約条件に同意すれば、NFTを保有することができる。
 If you sign up to the literal terms of the contract, you can hold the NFT.
 
+契約："毎日笑うこと"
 The contract: “Smile every day."
 
+NFTを持っている人が笑わない日もあるかもしれないが、私は信じる。つまり、契約違反になる可能性もあるが、そこにある程度の裁量を持つことで、本当に信頼できる関係が築けると考える。本当に笑っている人のところに人は集まってくる。ブロックチェーンはそれを後から可視化する。
 There may be days when the person holding the NFT does not laugh, but I believe in it, which means there is a possibility of violating the contract, but I think that by having some discretion there, a truly trustworthy relationship can be established. People will come to those who are truly laughing. Blockchain will make that visible later.
 <p align="right">(<a href="#top">back to top</a>)</p>
 
