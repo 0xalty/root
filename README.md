@@ -22,7 +22,7 @@ We make network that you can engage a region by using smartcontract.
 ## Concept
 NFTは魂のようなものだと考える。そうすれば、次の図のように多くのことを説明することができる。<br />
 What is NFT? I define it as the Spirit. In this way, I can explain many things as shown in the following diagram.
-<img width="940" alt="274827399-76301cd1-eb70-4de8-b6af-5337034ea976" src="https://github.com/setouchi-h/root/assets/113189196/b1cf3a81-dec2-4332-8d45-a7be101f1243">
+<img width="940" alt="274827399-76301cd1-eb70-4de8-b6af-5337034ea976" src="https://github.com/0xalty/root/assets/129202655/edf110cd-a626-405e-8fbe-aa8638f41f03">
 
 ### WAKE-MITAMA
 分け御霊とは、私たちはみんな神様の魂を分け持っているという日本の神道の考え方である。神様は神社などの特定の場所に存在しているのではなく、至る所に存在している。rootでは分け御霊をデジタルに表現しようと試みた。<br />
@@ -33,7 +33,7 @@ The concept of "WAKE-MITAMA" is based on the Japanese Shinto belief that we all 
 ## Function
 ERC-6551では、SBTからNFTを転送し、受け取ったNFTをSBTに変換することを試みた。<br />
 The Spirit can be shared with others; in ERC-6551, we attempted to transfer NFTs from SBTs and convert the NFT we received to SBT.
-<img width="943" alt="274827468-3078a25b-ceb5-4da2-a9d6-96990a97e44c" src="https://github.com/setouchi-h/root/assets/113189196/631a7341-cd62-4390-904d-78c61b150cd3">
+<img width="943" alt="274827468-3078a25b-ceb5-4da2-a9d6-96990a97e44c" src="https://github.com/0xalty/root/assets/129202655/102b5b5c-fd78-44bf-ad08-82862c84f92d">
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## Contract
